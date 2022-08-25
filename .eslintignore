@@ -1,0 +1,5 @@
+/build
+/cypress
+*.test.js
+registerServiceWorker.js
+cypress.config.js
